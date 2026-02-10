@@ -1,0 +1,5 @@
+python-markdown source: file-without-copyright-information
+python-markdown source: no-debian-changes
+python-markdown source: source-contains-prebuilt-windows-binary
+python-markdown source: source-is-missing
+python-markdown source: source-package-encodes-python-version
